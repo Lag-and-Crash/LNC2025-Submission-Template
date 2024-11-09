@@ -1,0 +1,1 @@
+Run the command `nc <server-ip> <port>` to connect and get the flag.

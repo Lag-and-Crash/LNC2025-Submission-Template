@@ -1,0 +1,26 @@
+# Challenge Metadata File (version 0.1)
+# This file is machine generated. DO NOT EDIT unless you know what you are doing.
+# If you want to create or edit a challenge, use chall-architect instead.
+
+version = "0.1"
+
+[challenge]
+author = "Bryan"
+category = "web"
+description = "I like cookies, gimme the one I want and I give you the flag!"
+difficulty = "easy"
+name = "Gimme Cookie"
+
+[challenge.extras]
+discord = "juscodin"
+
+[[challenge.flags]]
+flag = "CTF101{B4$iC_C0Oki3_m@niPuLATI0n}"
+
+[[challenge.services]]
+name = "gimme-cookie"
+path = "service\\gimme-cookie"
+port = 1337
+type = "web"
+
+[challenge.services.extras]
