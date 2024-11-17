@@ -96,6 +96,6 @@ After packaging the challenge, fill up the Google Form and include the zipped ch
 
 ## Frequently Asked Questions
 - **Q:** What do I do if I don't know how to write a `Dockerfile` for hosted challenges?
-  - **A:** The preferred method is to refer to provided `Dockerfile`s in [examples](#examples). If you are still unsure, please contact your school's LNC 2024 representative for assistance, or open a ticket on the [LNC Discord Server](https://discord.com/invite/H6U6NykFRe).
+  - **A:** The preferred method is to refer to provided `Dockerfile`s in [examples](#examples). If you are still unsure, please contact your school's LNC 2025 representative for assistance, or open a ticket on the [LNC Discord Server](https://discord.com/invite/H6U6NykFRe).
 - **Q:** My challenge has custom/non-standard hosting requirements, what do I do?
-  - **A:** Please contact your school's LNC 2024 representative for assistance, or open a ticket on the [LNC Discord Server](https://discord.com/invite/H6U6NykFRe). We will do our best to accommodate your requirements.
+  - **A:** Please contact your school's LNC 2025 representative for assistance, or open a ticket on the [LNC Discord Server](https://discord.com/invite/H6U6NykFRe). We will do our best to accommodate your requirements.
