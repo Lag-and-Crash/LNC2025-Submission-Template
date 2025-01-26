@@ -21,6 +21,6 @@ flag = "CTF101{hE1lO_froM_N3tC4T}"
 name = "gimme-flag"
 path = "service\\gimme-flag"
 port = 10003
-type = "nc"
+type = "tcp"
 
 [challenge.services.extras]

@@ -13,7 +13,7 @@ LNC 2025 Challenge Submission Template
 
 ## Examples
 - [Static Challenge Example](./examples/Lets%20do%20RSA/)
-- [Hosted Netcat Challenge Example](./examples/Gimme%20Flag/)
+- [Hosted TCP Challenge Example](./examples/Gimme%20Flag/)
 - [Hosted Web with Backend Challenge Example](./examples/Gimme%20Flag/)
 - [Hosted Static Web Challenge Example](./examples/what%20a%20mess/)
 
@@ -71,7 +71,7 @@ If you intend to provide the source code for the service to users solving the ch
 #### Service Types
 When packaging your hosted challenge using `chall-architect`, you will be asked to specify the type of service you are using. The following are the available service types:
 - `web`     : A web service, must have a port exposed
-- `nc`      : A netcat service, must have a port exposed
+- `tcp`     : A tcp service, must have a port exposed
 - `ssh`     : An ssh service, must have a port exposed
 - `secret`  : A secret service, it must have a port exposed, but will not be shown to users in the challenge info. This is useful for challenges where the service must be discovered by the player
 - `internal`: An internal service, does not need to expose a port, and will not be shown in the challenge info. This is useful for challenges where the service should not be accessed directly, i.e. web admin bots for XSS challenges.
@@ -85,8 +85,8 @@ After creating your challenge, you need to package it using `chall-architect`. T
 ### 1. Download the `ctf_config.toml` File
 You can find the `ctf_config.toml` file [here](./ctf_config.toml)
 
-### 2. Run `chall-architect`
-For information on how to use `chall-architect`, please refer to [this guide](https://jus-codin.github.io/CTF-Architect/guides/packaging-challenges/)
+### 2. Run `CTF Architect`
+For information on how to use `CTF Architect`, please refer to [this guide](https://jus-codin.github.io/CTF-Architect/guides/packaging-challenges/)
 
 ### 3. Submit the Challenge
 > [!IMPORTANT]
