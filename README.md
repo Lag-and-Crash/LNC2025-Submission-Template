@@ -86,7 +86,7 @@ After creating your challenge, you need to package it using `chall-architect`. T
 You can find the `ctf_config.toml` file [here](./ctf_config.toml)
 
 ### 2. Run `CTF Architect`
-For information on how to use `CTF Architect`, please refer to [this guide](https://jus-codin.github.io/CTF-Architect/guides/packaging-challenges/)
+For information on how to use `CTF Architect`, please refer to [this guide for installation](https://jus-codin.github.io/CTF-Architect/installation/), and [this guide for packaging challenges](https://jus-codin.github.io/CTF-Architect/guides/packaging-challenges/)
 
 ### 3. Submit the Challenge
 > [!IMPORTANT]
