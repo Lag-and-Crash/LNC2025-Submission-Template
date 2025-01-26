@@ -1,26 +1,26 @@
 # Challenge Metadata File (version 0.1)
 # This file is machine generated. DO NOT EDIT unless you know what you are doing.
-# If you want to create or edit a challenge, use chall-architect instead.
+# If you want to create or edit a challenge, use the CLI instead.
 
 version = "0.1"
 
 [challenge]
 author = "Bryan"
 category = "misc"
-description = "Time to learn to use netcat!"
+description = "Time to learn to use netcat!\n"
 difficulty = "easy"
 name = "Gimme Flag"
+folder_name = "Gimme Flag"
 
 [challenge.extras]
 discord = "juscodin"
+polytechnic = "Singapore Polytechnic"
 
 [[challenge.flags]]
-flag = "CTF101{hE1lO_froM_N3tC4T}"
+flag = "LNC25{hE1l0_froM_N3tC4T}"
 
 [[challenge.services]]
 name = "gimme-flag"
 path = "service\\gimme-flag"
-port = 10003
+ports = [10003]
 type = "tcp"
-
-[challenge.services.extras]

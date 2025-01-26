@@ -1,4 +1,5 @@
-# Lets do RSA!
+
+# Let's do RSA!
 Have you heard of RSA before?
 
 
@@ -7,17 +8,16 @@ Have you heard of RSA before?
 - **Category:** crypto
 - **Difficulty:** easy
 - **Discord:** _housefly_
+- **Polytechnic:** Singapore Polytechnic
 
 ## Hints
 None
 
 ## Files
-- [numbers.txt](dist\numbers.txt)
+- [numbers.txt](<dist/numbers.txt>)
 
 ## Flags
-- `CTF101{w0W_rSa}` (static)
+- `LNC25{w0W_rSa}` (static, case-sensitive)
 
 ## Services
-| Service | Port | Type |
-| ------- | ---- | ---- |
 None

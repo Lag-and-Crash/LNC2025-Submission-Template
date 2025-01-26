@@ -17,3 +17,10 @@ description = "The discord tag of the challenge creator"
 prompt = "Enter your discord tag"
 required = true
 type = "string"
+
+[[config.extras]]
+name = "polytechnic"
+description = "The polytechnic of the challenge creator"
+prompt = "Please enter the name of your polytechnic"
+required = true
+type = "string"

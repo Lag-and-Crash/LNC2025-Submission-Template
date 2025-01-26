@@ -1,6 +1,6 @@
 # Challenge Metadata File (version 0.1)
 # This file is machine generated. DO NOT EDIT unless you know what you are doing.
-# If you want to create or edit a challenge, use chall-architect instead.
+# If you want to create or edit a challenge, use the CLI instead.
 
 version = "0.1"
 
@@ -9,11 +9,13 @@ author = "heyu"
 category = "crypto"
 description = "Have you heard of RSA before?\n"
 difficulty = "easy"
-name = "Lets do RSA!"
+name = "Let's do RSA!"
+folder_name = "Lets do RSA"
 files = ["dist\\numbers.txt"]
 
 [challenge.extras]
 discord = "_housefly_"
+polytechnic = "Singapore Polytechnic"
 
 [[challenge.flags]]
-flag = "CTF101{w0W_rSa}"
+flag = "LNC25{w0W_rSa}"

@@ -1,27 +1,26 @@
 # Challenge Metadata File (version 0.1)
 # This file is machine generated. DO NOT EDIT unless you know what you are doing.
-# If you want to create or edit a challenge, use chall-architect instead.
+# If you want to create or edit a challenge, use the CLI instead.
 
 version = "0.1"
 
 [challenge]
 author = "Heyu"
 category = "web"
-description = "Wow what a messy website, where could the flag be?"
+description = "Wow what a messy website, where could the flag be?\n"
 difficulty = "easy"
 name = "what a mess"
+folder_name = "what a mess"
 
 [challenge.extras]
 discord = "_housefly_"
+polytechnic = "Singapore Polytechnic"
 
 [[challenge.flags]]
-flag = "CTF101{0h_L0oook_yoU_fouNd_youR_w@y}"
-case_sensitive = true
+flag = "LNC25{0h_L0oook_yoU_fouNd_youR_w@y}"
 
 [[challenge.services]]
-name = "messy_website"
+name = "what-a-mess"
 path = "service\\service"
-port = 80
+ports = [80]
 type = "web"
-
-[challenge.services.extras]
