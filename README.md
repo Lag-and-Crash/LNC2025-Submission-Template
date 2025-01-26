@@ -80,7 +80,7 @@ When packaging your hosted challenge using `chall-architect`, you will be asked 
 After creating your challenge, you need to package it using `chall-architect`. This tool will generate the necessary metadata files for the challenge.
 
 > [!IMPORTANT]
-> Do note that this tool is still in development, and may not be fully functional. If you encounter any issues, please contact the Gryphons team for assistance.
+> Do note that this tool is still in development, and may not be fully functional. If you encounter any issues, please contact the LNC team, or JusCodin for assistance.
 
 ### 1. Download the `ctf_config.toml` File
 You can find the `ctf_config.toml` file [here](./ctf_config.toml)
