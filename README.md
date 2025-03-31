@@ -1,4 +1,4 @@
-# LNC 2024 Challenge Submission Template 
+# LNC 2025 Challenge Submission Template 
 
 ## Flag Format
 - LNC25{flag}
