@@ -1,0 +1,21 @@
+challenge:
+  author: Zavier Lee
+  category: Pwn
+  description: The fate of humanity rests in your hands...
+  difficulty: Medium
+  discord: gatari
+
+  # note: dist files are required for this challenge
+  files:
+  - ./dist/vuln
+  flags:
+  - flag: LNC25{SecreT_Al13n_por7a1?}
+    regex: false
+  hints: null
+  name: Alien Portal
+  requirements: null
+services:
+  alien_portal:
+    name: alien_portal
+    path: service/alien_portal
+    port: '8085'
