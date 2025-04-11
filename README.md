@@ -16,7 +16,7 @@ example of a flag that matches the said regex expression is
 
 The challenge & file structure should look like this:
 
-```txt
+```
 challenge_name/
     |
     ├─ dist/
@@ -123,10 +123,10 @@ Your `chall.json` should look similar to:
     "author": "John Doe",
     "category": "web",
     "difficulty": "easy",
-    "description": "I made a web application! Hack me.",  // Connection URL will be appended by the script
+    "description": "I made a web application! Hack me.", // Connection URL will be appended by the script
     "discord": "john.doe",
     "flag": "LNC25{f4k3_fl4g_f0r_t3st1ng}",
-    "port": 8080  // Same as the Python script
+    "port": 8080 // Same as the Python script
 }
 ```
 
