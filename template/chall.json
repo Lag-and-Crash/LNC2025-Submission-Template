@@ -1,0 +1,17 @@
+{
+    "name": "Challenge Name",
+    "author": "John Doe",
+    "category": "osint",   // Choose between crypto, forensics, misc, osint, pwn, re, web. If unsure, put it as misc. (Case-sensitive!)
+    "difficulty": "easy",  // Choose between easy, medium, hard or insane (Case-sensitive!)
+    "description": "This is the first line of a multi-line description.\nThis is the second line.",
+    "discord": "john.doe",
+    "flag": "LNC25{put_your_flag_here}",
+
+    // Optional fields (delete if unused)
+    "port" : 8080,
+    "requirements": ["Previous Challenge Name"],
+    "hints": [
+        { "cost": 10, "description": "Hint 1" },
+        { "cost": 20, "description": "Hint 2" }
+    ]
+}
