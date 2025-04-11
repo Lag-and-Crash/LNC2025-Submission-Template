@@ -136,7 +136,7 @@ Your `chall.json` should look similar to:
 "hints": [
   {
     "cost": 10,
-	"description": "Lorem ipsum dolo amet ..."
+    "description": "Lorem ipsum dolo amet ..."
   }
 ]
 ```
