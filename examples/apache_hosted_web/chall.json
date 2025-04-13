@@ -1,0 +1,13 @@
+{
+    "name": "Login Portal",
+    "author": "Zavier Lee",
+    "category": "web",
+    "difficulty": "easy",
+    "description": "I seem to have forgotten the login for my admin page, can you help me log in?",
+    "discord": "gatari",
+    "flag": "LNC25{f4k3_fl4g}",
+    "port" : 80,
+    "hints": [
+        { "cost": 100, "description": "Have you tried viewing page source?" },
+    ]
+}

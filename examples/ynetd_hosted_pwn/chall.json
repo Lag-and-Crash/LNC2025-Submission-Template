@@ -1,0 +1,10 @@
+{
+    "name": "Alien Portal",
+    "author": "Zavier Lee",
+    "category": "pwn",
+    "difficulty": "medium",
+    "description": "The fate of humanity rests in your hands...",
+    "discord": "gatari",
+    "flag": "LNC25{SecreT_Al13n_por7a1?}",
+    "port" : 8085
+}

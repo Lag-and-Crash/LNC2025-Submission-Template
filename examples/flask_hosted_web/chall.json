@@ -1,0 +1,10 @@
+{
+    "name": "Hello, Cookie Monster",
+    "author": "Zavier Lee",
+    "category": "web",
+    "difficulty": "easy",
+    "description": "Seems like someone has eaten my cookies...",
+    "discord": "gatari",
+    "flag": "LNC25{co0KIe_mANIpulAT10N}",
+    "port" : 1337
+}
